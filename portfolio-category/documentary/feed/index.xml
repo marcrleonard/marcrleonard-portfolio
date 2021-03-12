@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Documentary &#8211; Marc R Leonard</title>
+	<atom:link href="/portfolio-category/documentary/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>DIRECTOR &#124; SHOOTER &#124; EDITOR</description>
+	<lastBuildDate>Tue, 31 Jan 2017 21:28:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.12</generator>
+	<item>
+		<title>TIM</title>
+		<link>/portfolio-view/tim/</link>
+		<pubDate>Tue, 25 Oct 2016 18:28:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=1761</guid>
+		<description><![CDATA[A glimpse into the life of an engineer turned brewer.]]></description>
+				<content:encoded><![CDATA[<p>A glimpse into the life of an engineer turned brewer.</p>
+<p><iframe src="https://player.vimeo.com/video/187855177" width="960" height="540" frameborder="0" title="Tim" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Outside Online: Sweetgrass Productions</title>
+		<link>/portfolio-view/sweetgrass/</link>
+		<pubDate>Tue, 16 Sep 2014 15:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8888/?post_type=portfolio&#038;p=55</guid>
+		<description><![CDATA[Lifestyle segment for Outside Online. We sit down and talk to the Sweetgrass team about their upcoming film &#8216;Valhalla&#8217; I completed editorial, graphics and final color grade.]]></description>
+				<content:encoded><![CDATA[<p><script height="540px" width="960px" src="http://player.ooyala.com/iframe.js#pbid=MzMyN2JkYjc5ZWFlOTg1N2FkMjk5MmI5&#038;ec=t2eWlmZTq6iSnL0dIRcFMM4ZHZ4pvgOw"></script></p>
+<p>Lifestyle segment for Outside Online.</p>
+<p>We sit down and talk to the Sweetgrass team about their upcoming film &#8216;Valhalla&#8217;</p>
+<p>I completed editorial, graphics and final color grade.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Common Ground</title>
+		<link>/portfolio-view/common-ground/</link>
+		<pubDate>Tue, 24 Jun 2014 13:46:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=1385</guid>
+		<description><![CDATA[Several ranching and farming communities living against the stunning landscape of the Rocky Mountain Front in Montana are faced with the decision of what is to become of this unprotected public land. As the community battles with the idea of proposing more wilderness areas, heritage and tradition are seemingly defended on both sides. When the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://player.vimeo.com/video/94041403" width="960" height="540" frameborder="0" title="Common Ground" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>Several ranching and farming communities living against the stunning landscape of the Rocky Mountain Front in Montana are faced with the decision of what is to become of this unprotected public land. As the community battles with the idea of proposing more wilderness areas, heritage and tradition are seemingly defended on both sides. When the people begin to raise their voices, they come to find that what is feared most is change.</p>
+<p>A RED REEL film, Common Ground was made possible by The Conservation Alliance and three of it&#8217;s members; CLIF Bar, Osprey Packs, and Horny Toad Clothing.</p>
+<p>To learn more head to <a href="http://www.commongrounddoc.com/" target="_blank" rel="nofollow">commongrounddoc.com</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,122 @@
+/* -------------------- */
+/*  PORTFOLIO 		    */
+/* -------------------- */
+.cbp-popup-singlePage .cbp-popup-content {
+	width: 100%;
+	max-width: 100%;
+	margin-top: 100px;
+}
+.cbp-popup-singlePage {
+	background-color: #f8f8f8;
+}
+#grid-portfolio-single .cbp-l-caption-body{
+	color: #ffffff;
+}
+#grid-portfolio-single .cbp-l-caption-title{
+	font-family: 'Montserrat';
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	line-height: normal;
+}
+#grid-portfolio-single .ts-portfolio-icon > img{
+	width: auto;
+}
+#grid-portfolio-single .cbp-l-caption-cats{
+	font-style: italic;
+}
+#grid-portfolio .ts-portfolio-icon > img {
+	width: auto;
+}
+/**/
+.post-audio-html5 iframe {
+    max-width: 100%;
+}
+.portfolio-post-audio  iframe {
+	max-width: 100%;
+	height: 100% !important;
+}
+/*Portfolio Filter*/
+#filters-portfolio{
+	text-align: right;
+	margin-top: 40px;
+}
+#filters-portfolio .cbp-filter-item{
+	font-family: 'Montserrat';
+	text-align: center;
+	letter-spacing: 2px;
+	color: #252525;
+	line-height: 18px;
+	padding: 0 18px;
+	border-right: 1px solid rgba(0,0,0,0.08);
+	text-transform: uppercase;
+	margin: 8px 0;
+	font-size: 10px;
+}
+#filters-portfolio .cbp-filter-item:hover,
+#filters-portfolio .cbp-filter-item.cbp-filter-item-active{
+	color: #e6ae48;
+}
+#filters-portfolio .cbp-filter-item:last-child{
+	border-right: none;
+}
+#filters-portfolio .portfolio-filte-toggle {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  line-height: 32px;
+  color: #ffffff;
+  background: #e6ae48;
+  float: right;
+}
+
+/*Portfolio Single*/
+.ts-single-portfolio .main-content-portfolio {
+	background-color:#f8f8f8;
+}
+/*Custom Header*/
+
+.header-effect .bg-header img, .header-effect .bg-header figure {
+	display: block;
+}
+
+#header_video {
+    background-color: black;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 0 !important;    
+}
+/* -------------------------- */
+/* SHOP BANNER */
+.banner-shop{
+	background-image: url(/wp-content/themes/every/assets/images/bg-blog.jpg);
+	min-height: 435px;
+	position: relative;
+}
+.banner-shop .content-banner{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(-50%) translateY(-50%);
+	-o-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+.banner-shop h2{
+	color: #ffffff;
+	font-size: 30px;
+	line-height: 48px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	padding: 7px 35px;
+	display: inline-block;
+	border: 3px solid;
+	text-align: center;
+}
+.banner-shop  .overlay{
+	background: rgba(0,0,0,0.6);
+}

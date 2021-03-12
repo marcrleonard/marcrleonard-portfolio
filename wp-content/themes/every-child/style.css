@@ -1,0 +1,17 @@
+/*
+Theme Name: EVERY Child
+Theme URI: http://www.themestudio.net
+Author: Vu Ngoc Linh
+Author URI: http://www.themestudio.net
+Description: Every is simple but elegant WordPress onepage theme, with the super creative mind, we bring to the theme the new way of present information such a combine between professional, elegant and noble. With Every Theme you can create Professional Portfolio Website, Agency, Personal blog, Team showcase, even more complex website like shop.
+Template: every
+Version: 1.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: white, custom-background, threaded-comments, translation-ready, custom-menu
+Text Domain: themestudio
+*/
+
+/*For older themes, and themes that do not use wp_enqueue_style() to enqueue their stylesheet, use the following line where ainex is the name of the directory where the theme resides:*/
+@import url("/wp-content/themes/every/style.css");
+
